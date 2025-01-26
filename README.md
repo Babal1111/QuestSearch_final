@@ -42,8 +42,9 @@ Before you begin, ensure you have the following installed:
    ```
 
 3. **Install the dependencies**:
+   Install the necessary dependencies:
    ```bash
-   npm install
+   npm install express mongodb cors
    ```
 
 4. **Create a `.env` file**:
@@ -72,8 +73,9 @@ Before you begin, ensure you have the following installed:
    ```
 
 2. **Install the dependencies**:
+   Install the necessary dependencies:
    ```bash
-   npm install
+   npm install react-bootstrap axios
    ```
 
 3. **Start the frontend application**:
@@ -91,7 +93,6 @@ Once both the frontend and backend are running:
 
 1. Open the frontend application in your browser at `http://localhost:3000`.
 2. You can now search for questions based on their titles.
-
----
-
-
+3. 
+To search for a question, type any word like "car," "break," or even a whole question like "In my previous role, I honed an adeptness at navigating through the intricacies of complex legal documents, effortlessly pinpointing pivotal issues and strategizing potential legal solutions," and
+ click on the search button to see the magic.
