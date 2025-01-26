@@ -94,6 +94,4 @@ Once both the frontend and backend are running:
 
 ---
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
